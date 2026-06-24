@@ -1,0 +1,9 @@
+[
+  {"index": 0, "name": "亲密关系", "questionRange": [1, 9], "description": "你在亲密关系中的行为模式与内在驱动"},
+  {"index": 1, "name": "亲子关系", "questionRange": [10, 18], "description": "你在亲子关系中的教育理念与相处方式"},
+  {"index": 2, "name": "社交礼仪", "questionRange": [19, 27], "description": "你在社交场合中的表现风格与人际态度"},
+  {"index": 3, "name": "自然关系", "questionRange": [28, 36], "description": "你与自然环境的互动方式与生活态度"},
+  {"index": 4, "name": "金钱关系", "questionRange": [37, 45], "description": "你与金钱的关系模式与消费哲学"},
+  {"index": 5, "name": "道德信仰", "questionRange": [46, 54], "description": "你的价值判断、道德底线与精神追求"},
+  {"index": 6, "name": "原生家庭", "questionRange": [55, 63], "description": "你在原生家庭中的角色定位与情感模式"}
+]

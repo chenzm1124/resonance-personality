@@ -1,0 +1,45 @@
+{
+  "pages": [
+    {
+      "path": "pages/landing/index",
+      "style": {
+        "navigationBarTitleText": "共鸣人格IP打造系统",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/quiz/index",
+      "style": {
+        "navigationBarTitleText": "直觉作答",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/loading/index",
+      "style": {
+        "navigationBarTitleText": "人格计算中",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/result/index",
+      "style": {
+        "navigationBarTitleText": "九色人格图谱",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/privacy/index",
+      "style": {
+        "navigationBarTitleText": "隐私政策"
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "共鸣人格",
+    "navigationBarBackgroundColor": "#1A5276",
+    "backgroundColor": "#1A5276",
+    "backgroundTextStyle": "light"
+  }
+}

@@ -1,0 +1,71 @@
+/* ========================================
+   共鸣人格IP打造系统 — 全局设计Token
+   三色体系: 蔚蓝(海) + 白色(船帆) + 金色(光辉)
+   ======================================== */
+
+/* === 主色调 === */
+$ocean-deep: #1A5276;      /* 主背景 - 深海蔚蓝 */
+$ocean-mid: #2980B9;       /* 次背景 - 中海蓝 */
+$ocean-light: #5DADE2;     /* 高光 - 浅海蓝 */
+
+$white-pure: #FFFFFF;      /* 卡片底色 */
+$white-soft: #F8F9F9;      /* 次要底色 */
+$white-alpha: rgba(255, 255, 255, 0.85); /* 半透明遮罩 */
+
+$gold-bright: #F1C40F;     /* 强调色、按钮、高亮 */
+$gold-deep: #D4AC0D;       /* 阴影/深色强调 */
+$gold-soft: #FCF3CF;       /* 淡金背景 */
+
+/* === 文字色 === */
+$text-primary: #2C3E50;    /* 正文深灰 */
+$text-light: #7F8C8D;      /* 辅助灰 */
+$text-gold: #F1C40F;       /* 金色强调 */
+$text-white: #FFFFFF;      /* 白色文字 */
+
+/* === 九色人格色值 === */
+$personality-hero: #C0392B;       /* 英雄 - 赤红 */
+$personality-strategist: #2C3E50; /* 军师 - 深蓝 */
+$personality-druid: #27AE60;      /* 德鲁伊 - 翠绿 */
+$personality-dreamer: #E67E22;    /* 梦想家 - 橙色 */
+$personality-sage: #17202A;       /* 圣人 - 玄黑 */
+$personality-innocent: #ECF0F1;   /* 天真者 - 纯白 */
+$personality-ordinary: #7F8C8D;   /* 普通人 - 灰色 */
+$personality-king: #8E44AD;       /* 王者 - 紫色 */
+$personality-general: #F1C40F;    /* 将军 - 金色 */
+
+/* === 字体 === */
+$font-title: 'Source Han Serif', 'Noto Serif CJK SC', serif;
+$font-body: 'Source Han Sans', 'Noto Sans CJK SC', sans-serif;
+
+$font-size-xs: 24rpx;
+$font-size-sm: 28rpx;
+$font-size-base: 32rpx;
+$font-size-lg: 36rpx;
+$font-size-xl: 42rpx;
+$font-size-xxl: 52rpx;
+
+/* === 间距 === */
+$spacing-xs: 8rpx;
+$spacing-sm: 16rpx;
+$spacing-md: 24rpx;
+$spacing-lg: 32rpx;
+$spacing-xl: 48rpx;
+$spacing-xxl: 64rpx;
+
+/* === 圆角 === */
+$radius-sm: 8rpx;
+$radius-md: 16rpx;
+$radius-lg: 24rpx;
+$radius-xl: 32rpx;
+$radius-full: 999rpx;
+
+/* === 阴影 === */
+$shadow-sm: 0 2rpx 8rpx rgba(0, 0, 0, 0.1);
+$shadow-md: 0 4rpx 16rpx rgba(0, 0, 0, 0.15);
+$shadow-lg: 0 8rpx 32rpx rgba(0, 0, 0, 0.2);
+$shadow-gold: 0 0 20rpx rgba(241, 196, 15, 0.4);
+
+/* === 动画 === */
+$transition-fast: 150ms ease;
+$transition-base: 300ms ease;
+$transition-slow: 600ms ease;

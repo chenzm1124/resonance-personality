@@ -1,0 +1,110 @@
+[
+  {
+    "index": 0,
+    "name": "英雄",
+    "guardian": "红色雄狮",
+    "ipType": "引领式IP",
+    "color": "#C0392B",
+    "keywords": ["热血", "逆袭", "领导力", "突破", "担当"],
+    "corePosition": "用经历点燃别人 / 用行动带动别人",
+    "shootDirections": ["逆袭故事", "创业铺盘", "挑战突破", "成长经历", "目标达成"],
+    "avoidDirections": ["理论分析", "教程", "知识疗愈"],
+    "quote": "用经历点燃别人，用行动带动别人"
+  },
+  {
+    "index": 1,
+    "name": "军师",
+    "guardian": "深蓝银狐",
+    "ipType": "智识式IP",
+    "color": "#2C3E50",
+    "keywords": ["洞察", "框架", "规律", "分析", "谋略"],
+    "corePosition": "用规律影响别人 / 用逻辑说服别人",
+    "shootDirections": ["商业分析", "案例拆解", "趋势判断", "框架模型", "底层逻辑"],
+    "avoidDirections": ["鸡汤激励", "情绪表达", "日常流水账", "纯故事分享"],
+    "quote": "看见规律的人才能穿越周期"
+  },
+  {
+    "index": 2,
+    "name": "德鲁伊",
+    "guardian": "绿色灵鹿",
+    "ipType": "疗愈式IP",
+    "color": "#27AE60",
+    "keywords": ["治愈", "自然", "包容", "温暖", "成长"],
+    "corePosition": "用生命影响生命 / 用温暖治愈世界",
+    "shootDirections": ["用户故事", "疗愈记录", "身体养护", "情绪成长", "生活感悟"],
+    "avoidDirections": ["势能竞争", "利益争论", "炫耀生活", "压力管理"],
+    "quote": "最高级的力量，是让人放松"
+  },
+  {
+    "index": 3,
+    "name": "梦想家",
+    "guardian": "橙色飞马",
+    "ipType": "探索式IP",
+    "color": "#E67E22",
+    "keywords": ["自由", "创意", "浪漫", "探索", "跨界"],
+    "corePosition": "用自由启发自由 / 用体验影响体验",
+    "shootDirections": ["旅行旅居", "人生实验", "新鲜体验", "跨界探索", "梦想实践"],
+    "avoidDirections": ["严肃教学", "制度管理", "数据分析", "专业拆解"],
+    "quote": "人生不是轨道，而是旷野"
+  },
+  {
+    "index": 4,
+    "name": "圣人",
+    "guardian": "黑色蜘蛛",
+    "ipType": "深耕式IP",
+    "color": "#17202A",
+    "keywords": ["洞察", "原创理论", "底层逻辑", "人性", "认知升级"],
+    "corePosition": "用规律创造价值 / 用洞察改变认知",
+    "shootDirections": ["底层逻辑", "原创理论", "商业规律", "人性洞察", "认知升级"],
+    "avoidDirections": ["娱乐内容", "情绪发泄", "热点跟风", "流水记录"],
+    "quote": "知识会过时，洞察永远有效"
+  },
+  {
+    "index": 5,
+    "name": "天真者",
+    "guardian": "白色小狗",
+    "ipType": "成长式IP",
+    "color": "#ECF0F1",
+    "keywords": ["真诚", "善良", "学习", "青春", "向上"],
+    "corePosition": "用成长感染成长 / 用阳光照亮阳光",
+    "shootDirections": ["学习记录", "成长过程", "美好生活", "青春分享", "日常治愈"],
+    "avoidDirections": ["社会批判", "愤怒表达", "阴谋论", "负能量输出"],
+    "quote": "你发光的时候，自然会有光"
+  },
+  {
+    "index": 6,
+    "name": "普通人",
+    "guardian": "灰色绵羊",
+    "ipType": "趣味式IP",
+    "color": "#7F8C8D",
+    "keywords": ["真实", "烟火气", "共鸣", "亲和", "有趣"],
+    "corePosition": "用真实获得信任 / 用烟火气链接大众",
+    "shootDirections": ["生活吐槽", "真实日常", "社会观察", "趣味段子", "普通人成长"],
+    "avoidDirections": ["高高在上", "说教教育", "过度包装", "精英感"],
+    "quote": "真实永远比完美更有力量"
+  },
+  {
+    "index": 7,
+    "name": "王者",
+    "guardian": "紫色巨蟒",
+    "ipType": "魅力式IP",
+    "color": "#8E44AD",
+    "keywords": ["独特", "审美", "气场", "价值观", "高级感"],
+    "corePosition": "用人格魅力吸引人 / 用价值观筛选人",
+    "shootDirections": ["独特观点", "审美表达", "人格态度", "价值观输出", "高级生活方式"],
+    "avoidDirections": ["讨好所有人", "跟风模仿", "低价成交", "人设迎合"],
+    "quote": "当你成为自己，同频的人自然会靠近"
+  },
+  {
+    "index": 8,
+    "name": "将军",
+    "guardian": "金色金钱豹",
+    "ipType": "执行式IP",
+    "color": "#F1C40F",
+    "keywords": ["目标", "执行", "结果", "权威", "荣耀"],
+    "corePosition": "用目标驱动行动 / 用结果建立权威",
+    "shootDirections": ["团队管理", "目标达成", "执行系统", "战略落地", "成果复盘"],
+    "avoidDirections": ["情绪输出", "空谈梦想", "纯理论内容", "无结果分享"],
+    "quote": "优秀不是一种能力，而是一种习惯"
+  }
+]
